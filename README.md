@@ -3,7 +3,7 @@ August 2018
 
 ---
 
-This repo contains finished homework assignments from a [Deep Learning] course on the Udacity platform.
+This repo contains finished homework assignments from a [Deep Learning](https://classroom.udacity.com/courses/ud730) course on the Udacity platform.
 There are 6 six assignments and a final project.
 All task were done in Jupyter notebooks.
 There were not reviewed by course instructors or peers.
